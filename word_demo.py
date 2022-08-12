@@ -37,5 +37,5 @@ class OperateWps:
 
 
 if __name__ == '__main__':
-    a = OperateWps(r"C:\Users\ljing\Desktop\translate.docm")
+    a = OperateWps(r".\translate.docm")
     a.run()
